@@ -1,0 +1,22 @@
+{
+    "name": "streamsync",
+    "version": "1.0.0",
+    "description": "Cross-platform streaming application developed with React Native",
+    "main": "App.js",
+    "scripts": {
+      "start": "node App.js"
+    },
+    "dependencies": {
+      "@react-navigation/native": "^6.0.6",
+      "@react-navigation/stack": "^6.0.11",
+      "react": "^17.0.2",
+      "react-native": "^0.66.4"
+  
+    },
+    "devDependencies": {
+   
+    },
+    "author": "Your Name",
+    "license": "MIT"
+  }
+  
