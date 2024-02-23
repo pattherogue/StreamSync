@@ -3,6 +3,7 @@
     "version": "1.0.0",
     "description": "Cross-platform streaming application developed with React Native",
     "main": "App.js",
+    "type": "module",
     "scripts": {
       "start": "node App.js"
     },
